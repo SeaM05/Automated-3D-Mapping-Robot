@@ -10,14 +10,9 @@ catkin_make
 
 3D Mapping
 
-![video1](assets/3dMap.mp4)
-
-![image1](assets/Jackal_3d_pic_1.png)
-
+[![video1](assets/Jackal_3d_pic_1.png)](assets/3dMap.mp4)
 
 2D mapping
 
-![video2](assets/2dMap.mp4)
-
-![image2](assets/2D_Map_SC_A.png)
+[![video2](assets/2D_Map_SC_A.png)](assets/2dMap.mp4)
 
